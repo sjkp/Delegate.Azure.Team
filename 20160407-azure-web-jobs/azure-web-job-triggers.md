@@ -15,6 +15,8 @@ So far we have seen QueueTrigger and ServiceBusTrigger - besides those some of t
 https://github.com/Azure/azure-webjobs-sdk-samples/blob/master/BasicSamples/BlobOperations/Functions.cs
 
 
+
+
 ##Other Triggers
 The triggers mention in the previous section comes with the nuget `Microsoft.Azure.WebJobs` but the Web Job team have also create other great trigger/output types
 

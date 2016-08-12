@@ -11,8 +11,8 @@
 
 ## Agenda 
 * [General](general.md)
-* [Queues](service-us-queues.md) 
-* [Topics](service-us-topics.md)
+* [Queues](service-bus-queues.md) 
+* [Topics](service-bus-topics.md)
 * [Notification Hub](service-bus-notification-hub.md) 
 * [Event Hub](service-bus-event-hub.md)
 * [Service Bus Relay](service-bus-relay.md)

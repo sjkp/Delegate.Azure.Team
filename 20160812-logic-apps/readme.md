@@ -19,6 +19,7 @@ What is in the package
 * Trigger
 * Action
 * [Enterprise Integration Pack](https://azure.microsoft.com/da-dk/documentation/articles/app-service-logic-enterprise-integration-overview/)
+* [Syntax language](https://msdn.microsoft.com/library/azure/mt643789.aspx) 
 
 
 ## Labs 

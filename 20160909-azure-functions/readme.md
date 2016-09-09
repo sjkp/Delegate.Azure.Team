@@ -19,13 +19,15 @@ It is part of the serverless movement which is getting a lot of traction
 ## Hands on labs
 The hands on labs today is a little different than last time as some of them are interconnected. 
 
-* [Lab 1 - Getting Started With Azure Functions]()
-* [Lab 2 - Process data from Blob Storage]()
-* [Lab 3a - Host a Web API in Azure Functions]()
-* [Lab 3b - Process Images in Azure Functions, using nuget libraries]()
-* [Lab 3c - Host a web site in Azure functions]()
-* [Lab 4 - Use F# in Azure functions](use-F-sharp.md)
-* [Lab 5 - Local development & continues integration]()
-* [Lab 6 - Integrate with Logic Apps]()
+* [Lab 1 - Getting Started With Azure Functions](lab1-getting-started-with-azure-functions.md)
+* [Lab 2 - Process data from Blob Storage](lab2-process-data-from-azure-storage.md)
+* [Lab 3a - Host a Web API in Azure Functions](lab3a-host-a-web-API-in-azure-functions.md)
+* [Lab 3b - Process Images in Azure Functions, using nuget libraries](lab3b-process-images-in-azure-functions.md)
+* [Lab 3c - Host a web site in Azure functions](lab3c-host-a-web-site-in-azure-functions.md)
+* [Lab 4 - Use F# in Azure functions](lab4-use-F-sharp.md)
+* [Lab 5 - Local development & continues integration](lab5-local-development-and-continues-integration.md)
+* [Lab 6 - Integrate with Logic Apps](lab6-integrate-with-logic-apps.md)
 
 
+## More samples
+* [https://github.com/guitarrapc/AzureFunctionsIntroduction](https://github.com/guitarrapc/AzureFunctionsIntroduction)
